@@ -25,7 +25,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina 
 ```bash
 git clone [https://github.com/ccsta/AF3_my-react-app.git](https://github.com/ccsta/AF3_my-react-app.git)
 cd AF3_my-react-app
----
+```
 
 ## 📷 Demonstração da Aplicação
 
