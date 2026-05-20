@@ -37,4 +37,5 @@ cd AF3_my-react-app
 ![Logs do Servidor](images/tela_git_servidor.PNG)
 
 ### Inicialização do Front-end com Vite
-![Vite Localhost](images/tela_localhost.PNG.png)
+![Vite Localhost](images/tela_localhost.PNG)
+
