@@ -33,8 +33,8 @@ cd AF3_my-react-app
 ![Interface do Formulário](images/tela_cadastro.PNG)
 ![Formulário Preenchido](images/tela_cadastro_preenchida.PNG)
 
-### Logs do Servidor Node.js Express
+### Logs do Servidor Node.js Express (Back-end)
 ![Logs do Servidor](images/tela_git_servidor.PNG)
 
-### Erro de Conexão Recusada (Porta Incorreta)
-![Erro Localhost](images/tela_localhost.PNG)
+### Inicialização do Front-end com Vite
+![Vite Localhost](images/tela_localhost.PNG.png)
