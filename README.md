@@ -25,3 +25,16 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina 
 ```bash
 git clone [https://github.com/ccsta/AF3_my-react-app.git](https://github.com/ccsta/AF3_my-react-app.git)
 cd AF3_my-react-app
+---
+
+## 📷 Demonstração da Aplicação
+
+### Interface do Formulário (Vazio e Preenchido)
+![Interface do Formulário](./images/tela_cadastro.png)
+![Formulário Preenchido](./images/tela_cadastro_preenchida.png)
+
+### Logs do Servidor Node.js Express
+![Logs do Servidor](./images/tela_git_servidor.png)
+
+### Erro de Conexão Recusada (Porta Incorreta)
+![Erro Localhost](./images/tela_localhost.png)
