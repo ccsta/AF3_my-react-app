@@ -30,11 +30,11 @@ cd AF3_my-react-app
 ## 📷 Demonstração da Aplicação
 
 ### Interface do Formulário (Vazio e Preenchido)
-![Interface do Formulário](images/tela_cadastro.png)
-![Formulário Preenchido](images/tela_cadastro_preenchida.png)
+![Interface do Formulário](images/tela_cadastro.PNG)
+![Formulário Preenchido](images/tela_cadastro_preenchida.PNG)
 
 ### Logs do Servidor Node.js Express
-![Logs do Servidor](/images/tela_git_servidor.png)
+![Logs do Servidor](images/tela_git_servidor.PNG)
 
 ### Erro de Conexão Recusada (Porta Incorreta)
-![Erro Localhost](images/tela_localhost.png)
+![Erro Localhost](images/tela_localhost.PNG)
