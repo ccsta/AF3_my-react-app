@@ -30,11 +30,11 @@ cd AF3_my-react-app
 ## 📷 Demonstração da Aplicação
 
 ### Interface do Formulário (Vazio e Preenchido)
-![Interface para fazer](./images/tela_cadastro.PNG)
-![Preenchido](./images/tela_cadastro_preenchida.PNG)
+![Interface para fazer](./images/tela_cadastro.PNG.png)
+![Preenchido](./images/tela_cadastro_preenchida.PNG.png)
 
 ### Logs do Servidor Node.js Express (Back-end)
-![Registros do Servidor](./images/tela_git_servidor.PNG)
+![Registros do Servidor](./images/tela_git_servidor.PNG.png)
 
 ### Inicialização do Front-end com Vite
 ![Vite Localhost](./images/tela_localhost.PNG.png)
